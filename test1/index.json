@@ -5,23 +5,7 @@
   "details": {
     "steps": [
       {
-        "title": "Install devonfw IDE",
-        "text": "step1.md"
-      },
-      {
-        "title": "Install CobiGen",
-        "text": "step1.md"
-      },
-      {
-        "title": "Create a new project",
-        "text": "step1.md"
-      },
-      {
-        "title": "Create a new file",
-        "text": "step1.md"
-      },
-      {
-        "title": "Build the java project",
+        "title": "Requirement Setup for CobiGen",
         "text": "step1.md"
       }
     ],

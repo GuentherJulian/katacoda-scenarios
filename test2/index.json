@@ -1,5 +1,5 @@
 {
-  "title": "CobiGen Cli",
+  "title": "CobiGen Cli 2",
   "difficulty": "Beginner",
   "time": "25 Minutes",
   "details": {
@@ -10,23 +10,23 @@
       },
       {
         "title": "Install CobiGen",
-        "text": "step1.md"
-      },
-      {
-        "title": "Create a new project",
         "text": "step2.md"
       },
       {
-        "title": "Create a new file",
+        "title": "Create a new project",
         "text": "step3.md"
       },
       {
-        "title": "Build the java project",
+        "title": "Create a new file",
         "text": "step4.md"
       },
       {
-        "title": "CobiGen Java",
+        "title": "Build the java project",
         "text": "step5.md"
+      },
+      {
+        "title": "CobiGen Java",
+        "text": "step6.md"
       }
     ],
     "intro": {
