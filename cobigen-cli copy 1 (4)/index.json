@@ -1,0 +1,56 @@
+{
+  "title": "CobiGen Cli 3",
+  "difficulty": "Beginner",
+  "time": "10 Minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Requirement Setup for CobiGen",
+        "text": "step1.md"
+      },
+      {
+        "title": "Step 2",
+        "text": "step2.md"
+      },
+      {
+        "title": "CobiGen Java",
+        "text": "step3.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md",
+      "code": "intro_foreground.sh",
+      "courseData": "intro_background.sh"
+    },
+    "finish": {
+      "text": "finish.md"
+    },
+    "assets": {
+      "client": [
+        {
+          "file": "setup/setup.txt",
+          "target": "/root/setup"
+        },
+        {
+          "file": "setup/cloneDevonfwIdeSettings.sh",
+          "target": "/root/setup"
+        },
+        {
+          "file": "setup/installCobiGenPlugin.sh",
+          "target": "/root/setup"
+        },
+        {
+          "file": "setup/setup.sh",
+          "target": "/root/setup"
+        }
+      ]
+    }
+  },
+  "environment": {
+    "uilayout": "terminal",
+    "showide": true
+  },
+  "backend": {
+    "imageid": "ubuntu:2004"
+  }
+}
