@@ -1,7 +1,7 @@
-Some text dfdf
+Some text dfdfsdsffffff
 
 
-![devon4j_proj_structure.JPG](./assets/devon4j_proj_structure.JPG)
+![devon4jProjStructure.JPG](./assets/devon4jProjStructure.JPG)
 
 
 
