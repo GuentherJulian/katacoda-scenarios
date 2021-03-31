@@ -1,11 +1,14 @@
-Some text dfdfsdsffffff
 
 
-lalala
 
-![devon4jProjStructure.jpg](./assets/devon4jProjStructure.jpg)
+You might have to click on &#39;compare across forks&#39;.
 
-lalala
+
+![devon4j_proj_structure.JPG](./assets/devon4j_proj_structure.JPG)
+
+
+You might have to click on &#39;compare across forks&#39;.
+
 
 
 
