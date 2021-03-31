@@ -3,7 +3,7 @@ Some text dfdfsdsffffff
 
 lalala
 
-![devon4jProjStructure.JPG](./assets/devon4jProjStructure.JPG)
+![devon4jProjStructure.jpg](./assets/devon4jProjStructure.jpg)
 
 lalala
 
