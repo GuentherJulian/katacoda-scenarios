@@ -4,7 +4,7 @@
 You might have to click on &#39;compare across forks&#39;.
 
 
-![devon4j_proj_structure.JPG](./assets/devon4j_proj_structure.JPG)
+![pull_request.jpg](./assets/pull_request.jpg)
 
 
 You might have to click on &#39;compare across forks&#39;.
